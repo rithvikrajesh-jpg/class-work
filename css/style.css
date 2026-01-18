@@ -5,4 +5,11 @@
      background: linear-gradient(
         yellow, red, blue
      );
+     animation-name: Rithvik;
+     animation-duration: 7s;
+     @keyframes Rithvik {
+        10%{
+        background: linear-gradient(
+        yellow, red, blue )
+     }
 }
